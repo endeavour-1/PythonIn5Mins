@@ -5,5 +5,10 @@ name = ["John", "Jayesh", "Jerry"]
 
 print(name)
 # If we have to print only John we will write number corresponding to it.
-
 #print(name[0])
+# Output = John
+
+
+# Python supports negative index.
+#print(name[0])
+# Output = Jerry
